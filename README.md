@@ -1,7 +1,7 @@
 # Student Intro 👨‍💻
 
 ## About Me
-- Name: Vishnu RG
+- Name: Rajesh V
 - Student
 - Interested in Programming & AI
 
