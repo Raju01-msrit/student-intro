@@ -1,5 +1,5 @@
 print("Hello, I'm a student developer 👨‍💻")
-print("Name: Vishnu RG")
-print("College: Your College Name")
+print("Name: Rajesh V")
+print("College: Ramaiah Institute Of Technology Bangaluru")
 print("Interest: Programming, AI, Web Development")
 print("Goal: To become a skilled software engineer 🚀")
